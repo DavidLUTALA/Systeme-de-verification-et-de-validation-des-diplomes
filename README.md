@@ -149,6 +149,8 @@ We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
 
+
+## Photos du système
 - Différentes méthodes de vérification
 ![Alt text](Images/image5.png)
 
