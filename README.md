@@ -23,6 +23,8 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 - **Intégration IPFS** : stockage de fichiers décentralisé à l'aide du système de fichiers interplanétaire.
 - **Contrats intelligents** : validation et enregistrement automatisés des données.
 - **Interface conviviale** : accès simplifié pour les universités et les vérificateurs.
+![Alt text](Images/image01.png)
+![Alt text](Images/image02.png)
 
 ## 🤖 Technologies utilisées
 - **Plateforme Blockchain** : Ethereum
