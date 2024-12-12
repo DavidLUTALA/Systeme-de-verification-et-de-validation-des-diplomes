@@ -148,3 +148,12 @@ We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md)
 ## 🌏 Contact
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
+
+
+![Alt text](Images/image0.png)
+
+
+![Alt text](Images/image6.png)
+
+
+![Alt text](Images/image8.png)
