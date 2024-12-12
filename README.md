@@ -136,6 +136,7 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 ## 📦 Tests
 - **Évaluation de l'utilisabilité** : Une évaluation basée sur l'échelle SUS (System Usability Scale) a révélé  une excellente convivialité, avec un score de 77,1, indiquant que les utilisateurs trouvent le syste me facile à utiliser et satisfaisant.
 - **Analyse des performances** :
+
 | TEST | Valeur |
 | --- | --- |
 | Temps de confirmation moyen | 10 secondes |
