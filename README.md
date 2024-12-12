@@ -149,11 +149,11 @@ We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md)
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
 
+- Différentes méthodes de vérification
+![Alt text](Images/image5.png)
 
-![Alt text](Images/image0.png)
-
-
+- Vérification par fichier PDF
 ![Alt text](Images/image6.png)
 
-
+- Vérification par le DiplomeID (hash)
 ![Alt text](Images/image8.png)
