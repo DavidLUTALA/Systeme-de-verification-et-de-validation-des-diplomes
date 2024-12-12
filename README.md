@@ -1,90 +1,132 @@
-# Diploma-verification-and-validation-system
-
-# Blockchain Academic Validation System
+# Système de vérification et de validation des diplômes
 
 ## Description
-This project implements a blockchain-based system for validating and authenticating academic credentials. It addresses the challenges of traditional methods by providing a secure, transparent, and decentralized solution. Universities can generate, record, and verify academic diplomas through the Ethereum blockchain, ensuring authenticity and resistance to fraud.
+Ce projet met en œuvre un système basé sur la blockchain pour valider et authentifier les diplômes universitaires. Il répond aux défis des méthodes traditionnelles en fournissant une solution sécurisée, transparente et décentralisée. Les universités peuvent générer, enregistrer et vérifier les diplômes universitaires via la blockchain Ethereum, garantissant ainsi l'authenticité et la résistance à la fraude.
 
-## Features
-- **Secure and Immutable Records**: Diplomas are stored on a decentralized ledger.
-- **Digital Signature**: Ensures the authenticity of the documents.
-- **IPFS Integration**: Decentralized file storage using InterPlanetary File System.
-- **Smart Contracts**: Automated validation and recording of data.
-- **User-Friendly Interface**: Simplified access for universities and verifiers.
+## Fonctionnalités
+- **Dossiers sécurisés et immuables** : les diplômes sont stockés sur un registre décentralisé.
+- **Signature numérique** : garantit l'authenticité des documents.
+- **Intégration IPFS** : stockage de fichiers décentralisé à l'aide du système de fichiers interplanétaire.
+- **Contrats intelligents** : validation et enregistrement automatisés des données.
+- **Interface conviviale** : accès simplifié pour les universités et les vérificateurs.
 
-## Technologies used
-- **Blockchain platform**: Ethereum
-- **Programming language**: Solidity, Python
-- **Storage system**: IPFS (via Pinata)
-- **Frontend**: Streamlit, HTML, CSS, JavaScript
-- **Backend**: Node.js
-- **Storage**: IPFS with Pinata as client (to store diplomas in pdf format in a decentralized way)
+## Technologies utilisées
+- **Plateforme Blockchain** : Ethereum
+- **Langage de programmation** : Solidity, Python
+- **Système de stockage** : IPFS (via Pinata)
+- **Frontend** : Streamlit, HTML, CSS, JavaScript
+- **Backend** : Node.js
+- **Stockage** : IPFS avec Pinata comme client (pour stocker les diplômes au format pdf de manière décentralisée)
 
 ## Installation
 
-### Prerequisites
-- Node.js and npm installed
-- Access to an Ethereum node (e.g., Infura)
-- Pinata account for IPFS management
+### Prérequis
+- Node.js et npm installés avec une version >= 21.0.0
+- Version Python >= 3.9.10 (La version Python 3.9.10 ou supérieure est recommandée mais d'autres versions peuvent également fonctionner.)
+- Compte Pinata pour la gestion IPFS
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/Blockchain-Diplomas.git
-   cd Blockchain-Diplomas
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Configure environment variables:
-   - Create a `.env` file and add the following:
-     ```plaintext
-     INFURA_API_KEY=your_infura_key
-     PINATA_API_KEY=your_pinata_api_key
-     PINATA_SECRET_API_KEY=your_pinata_secret
-     ```
-4. Deploy the smart contract:
-   ```bash
-   node scripts/deploy.js
-   ```
-5. Start the server:
-   ```bash
-   npm start
-   ```
-6. Access the application at `http://localhost:3000`.
+### Étapes
+1. Cloner le dépôt :
+```bash
+git clone https://github.com/DavidLUTALA/Systeme-de-verification-et-de-validation-des-diplomes.git
+```
+```bash
+cd Systeme-de-verification-et-de-validation-des-diplomes
+```
 
-## Usage
-1. **University**:
-   - Upload diploma details.
-   - Generate a signed PDF and store it on IPFS.
-   - Record transaction on the blockchain.
-2. **Verifier**:
-   - Enter the diploma ID or upload the diploma file.
-   - Verify its authenticity by matching the hash.
+2. Installer les dépendances : 
+- **Paquets installés globalement pour Truffle et Ganache-cli**
+```bash
+npm install -g truffle
+```
+```bash
+npm install -g ganache-cli
+```
+- **Paquets Python**
+Dans le répertoire racine du projet, exécutez la commande :
+```bash
+pip install pdfplumber
+```
+```bash
+pip install Pillow
+```
+```bash
+pip install Pyrebase4
+```
+```bash
+pip install python-dotenv
+```
+```bash
+pip install reportlab
+```
+```bash
+pip install requests
+```
+```bash
+pip install streamlit
+```
+```bash
+pip install streamlit_extras
+```
+```bash
+pip install web3
+```
 
-## System Architecture
-- **Frontend**: Provides user interfaces for universities and verifiers.
-- **Backend**: Manages interactions with IPFS and the Ethereum blockchain.
-- **Smart Contract**: Handles secure and immutable storage of diploma data.
+3. Exécution du projet
+Ouvrez un terminal n'importe où et démarrez la blockchain Ganache.
+```bash
+ganache-cli -h 127.0.0.1 -p 8545
+```
 
-![System Architecture Diagram](link_to_diagram.png)
+- **Ouvrez un nouveau terminal dans le répertoire racine du projet et exécutez la commande suivante pour compiler et déployer les contrats intelligents.**
+```bash
+truffle migrate
+```
 
-## Testing
-- **Usability Evaluation**: Conducted using the System Usability Scale (SUS).
-- **Performance Analysis**:
-  - Average confirmation time: ~10 seconds
-  - Transaction cost: ~0.0001415 ETH ($0.51 USD)
+- **Changez du répertoire de travail vers le répertoire d'application à l'intérieur du répertoire racine du projet.**
+```bash
+cd application
+```
 
-## Future Improvements
-- Optimization of transaction costs.
-- Integration with existing educational management systems.
-- Support for additional credential types (e.g., certificates of participation).
-- Large-scale validations with multiple institutions.
+- **Lancez l'application Streamlit.**
+```bash
+streamlit run app.py
+```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+- Vous pouvez maintenant visualiser l'application sur votre navigateur exécutée sur **localhost:8501**
 
+Pour arrêter l'application, appuyez sur **Ctrl+C**
+
+## Utilisation
+1. **Université** :
+- Téléchargez les détails du diplôme.
+- Générez un PDF signé et stockez-le sur IPFS.
+- Enregistrez la transaction sur la blockchain.
+2. **Vérificateur** :
+- Saisissez l'ID du diplôme ou téléchargez le fichier du diplôme.
+- Vérifiez son authenticité en faisant correspondre le hachage.
+
+## Architecture du système
+- **Frontend** : fournit des interfaces utilisateur pour les universités et les vérificateurs.
+- **Backend** : gère les interactions avec IPFS et la blockchain Ethereum.
+- **Smart Contract** : gère le stockage sécurisé et immuable des données des diplômes.
+
+![Diagramme d'architecture du système](link_to_diagram.png)
+
+## Tests
+- **Évaluation de l'utilisabilité** : réalisée à l'aide de l'échelle d'utilisabilité du système (SUS).
+- **Analyse des performances** :
+- Temps de confirmation moyen : environ 10 secondes
+- Coût de transaction : environ 0,0001415 ETH (0,51 USD)
+
+## Améliorations futures
+- Optimisation des coûts de transaction.
+- Intégration aux systèmes de gestion pédagogique existants.
+- Prise en charge de types de justificatifs supplémentaires (par exemple, certificats de participation).
+- Validations à grande échelle avec plusieurs institutions.
+
+## Licence
+Ce projet est sous licence [MIT License](LICENSE).
 ## Contributing
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
