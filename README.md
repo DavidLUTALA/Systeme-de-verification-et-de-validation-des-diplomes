@@ -125,7 +125,7 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 
 ![Diagramme d'architecture du système](link_to_diagram.png)
 
-## 🍞 Tests
+## 📦 Tests
 - **Évaluation de l'utilisabilité** : réalisée à l'aide de l'échelle d'utilisabilité du système (SUS).
 - **Analyse des performances** :
 - Temps de confirmation moyen : environ 10 secondes
@@ -138,7 +138,7 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 - Validations à grande échelle avec plusieurs institutions.
 
 ## 📜 Licence
-Ce projet est sous licence [MIT License](LICENSE).
+Ce projet est sous licence [MIT License](LICENSE) © [David Lutala](https://github.com/DavidLUTALA).
 ## Contributing
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
