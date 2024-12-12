@@ -131,7 +131,7 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 - **Backend** : gère les interactions avec IPFS et la blockchain Ethereum.
 - **Smart Contract** : gère le stockage sécurisé et immuable des données des diplômes.
 
-![Diagramme d'architecture du système](link_to_diagram.png)
+![Diagramme d'architecture du système](Images/Architecture_TPE.jpg)
 
 ## 📦 Tests
 - **Évaluation de l'utilisabilité** : réalisée à l'aide de l'échelle d'utilisabilité du système (SUS).
