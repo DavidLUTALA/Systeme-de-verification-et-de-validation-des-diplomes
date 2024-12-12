@@ -74,7 +74,7 @@ pip install web3
 
 3. Exécution du projet
 
-- **Ouvrez un terminal n'importe où et démarrez la blockchain Ganache.**
+- **Ouvrez un terminal et démarrez la blockchain Ganache avec la commande :**
 ```bash
 ganache-cli -h 127.0.0.1 -p 8545
 ```
