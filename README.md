@@ -151,6 +151,16 @@ We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 ## Photos du système
+
+- génération diplôme par l'université
+![Alt text](Images/image1.png)
+
+- Affichage de la liste de tous les diplômes générés (Assurer la transparence)
+![Alt text](Images/image2.png)
+
+- génération par importation d'un fichier excel (qui facilite la tâche aux universités en téléversant la liste des diplômes à partir d'un fichier excel)
+![Alt text](Images/image3.png)
+
 - Différentes méthodes de vérification
 ![Alt text](Images/image5.png)
 
