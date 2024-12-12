@@ -134,10 +134,12 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 ![Diagramme d'architecture du système](Images/Architecture_TPE.jpg)
 
 ## 📦 Tests
-- **Évaluation de l'utilisabilité** : réalisée à l'aide de l'échelle d'utilisabilité du système (SUS).
+- **Évaluation de l'utilisabilité** : Une évaluation basée sur l'échelle SUS (System Usability Scale) a révélé  une excellente convivialité, avec un score de 77,1, indiquant que les utilisateurs trouvent le syste me facile à utiliser et satisfaisant.
 - **Analyse des performances** :
-- Temps de confirmation moyen : environ 10 secondes
-- Coût de transaction : environ 0,0001415 ETH (0,51 USD)
+| TEST | Valeur |
+| --- | --- |
+| Temps de confirmation moyen | 10 secondes |
+| Coût de transaction moyen | 0,0001415 ETH (0,51 USD) |
 
 ## 💬 Améliorations futures
 - Optimisation des coûts de transaction.
