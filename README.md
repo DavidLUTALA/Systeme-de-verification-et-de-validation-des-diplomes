@@ -11,17 +11,17 @@
 </p>
 
 
-## Description
+## 🚩 Description
 Ce projet met en œuvre un système basé sur la blockchain pour valider et authentifier les diplômes universitaires. Il répond aux défis des méthodes traditionnelles en fournissant une solution sécurisée, transparente et décentralisée. Les universités peuvent générer, enregistrer et vérifier les diplômes universitaires via la blockchain Ethereum, garantissant ainsi l'authenticité et la résistance à la fraude.
 
-## Fonctionnalités
+## 🎨 Fonctionnalités
 - **Dossiers sécurisés et immuables** : les diplômes sont stockés sur un registre décentralisé.
 - **Signature numérique** : garantit l'authenticité des documents.
 - **Intégration IPFS** : stockage de fichiers décentralisé à l'aide du système de fichiers interplanétaire.
 - **Contrats intelligents** : validation et enregistrement automatisés des données.
 - **Interface conviviale** : accès simplifié pour les universités et les vérificateurs.
 
-## Technologies utilisées
+## 🤖 Technologies utilisées
 - **Plateforme Blockchain** : Ethereum
 - **Langage de programmation** : Solidity, Python
 - **Système de stockage** : IPFS (via Pinata)
@@ -29,7 +29,7 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 - **Backend** : Node.js
 - **Stockage** : IPFS avec Pinata comme client (pour stocker les diplômes au format pdf de manière décentralisée)
 
-## Installation
+## 🚀 Installation
 
 ### Prérequis
 - Node.js et npm installés avec une version >= 21.0.0
@@ -109,7 +109,7 @@ streamlit run app.py
 
 Pour arrêter l'application, appuyez sur **Ctrl+C**
 
-## Utilisation
+## 🐾 Utilisation
 1. **Université** :
 - Téléchargez les détails du diplôme.
 - Générez un PDF signé et stockez-le sur IPFS.
@@ -118,30 +118,30 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 - Saisissez l'ID du diplôme ou téléchargez le fichier du diplôme.
 - Vérifiez son authenticité en faisant correspondre le hachage.
 
-## Architecture du système
+## 🔧 Architecture du système
 - **Frontend** : fournit des interfaces utilisateur pour les universités et les vérificateurs.
 - **Backend** : gère les interactions avec IPFS et la blockchain Ethereum.
 - **Smart Contract** : gère le stockage sécurisé et immuable des données des diplômes.
 
 ![Diagramme d'architecture du système](link_to_diagram.png)
 
-## Tests
+## 🍞 Tests
 - **Évaluation de l'utilisabilité** : réalisée à l'aide de l'échelle d'utilisabilité du système (SUS).
 - **Analyse des performances** :
 - Temps de confirmation moyen : environ 10 secondes
 - Coût de transaction : environ 0,0001415 ETH (0,51 USD)
 
-## Améliorations futures
+## 💬 Améliorations futures
 - Optimisation des coûts de transaction.
 - Intégration aux systèmes de gestion pédagogique existants.
 - Prise en charge de types de justificatifs supplémentaires (par exemple, certificats de participation).
 - Validations à grande échelle avec plusieurs institutions.
 
-## Licence
+## 📜 Licence
 Ce projet est sous licence [MIT License](LICENSE).
 ## Contributing
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
-## Contact
+## 🌏 Contact
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
