@@ -16,8 +16,6 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 
 
 ![Alt text](Images/image0.png)
-![Alt text](Images/image01.png)
-![Alt text](Images/image02.png)
 
 ## 🎨 Fonctionnalités
 - **Dossiers sécurisés et immuables** : les diplômes sont stockés sur un registre décentralisé.
@@ -26,6 +24,8 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 - **Contrats intelligents** : validation et enregistrement automatisés des données.
 - **Interface conviviale** : accès simplifié pour les universités et les vérificateurs.
 
+- ![Alt text](Images/image01.png)
+
 ## 🤖 Technologies utilisées
 - **Plateforme Blockchain** : Ethereum
 - **Langage de programmation** : Solidity, Python
@@ -33,6 +33,9 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 - **Frontend** : Streamlit, HTML, CSS, JavaScript
 - **Backend** : Node.js
 - **Stockage** : IPFS avec Pinata comme client (pour stocker les diplômes au format pdf de manière décentralisée)
+
+![Alt text](Images/image02.png)
+
 
 ## 🚀 Installation
 
