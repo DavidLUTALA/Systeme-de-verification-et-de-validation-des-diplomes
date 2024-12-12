@@ -1,12 +1,13 @@
 # Système de vérification et de validation des diplômes
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#Description">Description</a> •
+  <a href="#Fonctionnalités">Fonctionnalités</a> •
+  <a href="#Technologies utilisées">Technologies utilisées</a> •
+  <a href="#Installation">Installation</a> •
+  <a href="#Utilisation">Utilisation</a> •
+  <a href="#Architecture du système">Architecture du système</a> •
+  <a href="#Tests">Tests</a>
 </p>
 
 
@@ -142,5 +143,5 @@ Ce projet est sous licence [MIT License](LICENSE).
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
 ## Contact
-- **Author**: [Your Name](mailto:your.email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/username)
+- **Author**: [David Lutala](davidlutala0@gmail.com)
+- **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
