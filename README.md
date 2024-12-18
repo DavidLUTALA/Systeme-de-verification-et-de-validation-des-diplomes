@@ -29,11 +29,11 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 - ![Alt text](Images/image01.png)
 
 ## 🤖 Technologies utilisées
-- **Plateforme Blockchain** : Ethereum
-- **Langage de programmation** : Solidity, Python
-- **Système de stockage** : IPFS (via Pinata)
-- **Frontend** : Streamlit, HTML, CSS, JavaScript
-- **Backend** : Node.js
+- **Plateforme Blockchain** : [Ethereum](https://ethereum.org)
+- **Langage de programmation** : [Solidity](https://soliditylang.org/)), [Python](https://www.python.org)
+- **Système de stockage** : [IPFS (via Pinata)](https://pinata.cloud/)
+- **Frontend** : [Streamlit](https://streamlit.io/), [HTML](https://www.w3schools.com/html), [CSS](https://www.w3schools.com/css), [JavaScript](https://www.w3schools.com/js)
+- **Backend** : [Node.js](https://nodejs.org/)
 - **Stockage** : IPFS avec Pinata comme client (pour stocker les diplômes au format pdf de manière décentralisée)
 
 ![Alt text](Images/image02.png)
