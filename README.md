@@ -153,13 +153,13 @@ Ce projet est sous licence [MIT License](LICENSE) © [David Lutala](https://gith
 ## Contributing
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
-## 🌏 Contact
+## 👥 Contact
 Pour toute question ou suggestion, veuillez me contacter par mail via [davidlutala0@gmail.com].
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
 
 
-## Photos du système
+## 📱 Photos du système
 
 - génération diplôme par l'université
 ![Alt text](Images/image1.png)
