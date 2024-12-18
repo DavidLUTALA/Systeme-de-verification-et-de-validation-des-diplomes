@@ -3,13 +3,13 @@
 
 # Table of contents
 
-- [Description](##Description)
-- [Fonctionnalités](##Fonctionnalités)
-- [Technologies utiliséess](##Technologies-utilisées)
-- [Installation](##Installation)
-- [Utilisation](##Utilisation)
-- [Architecture du système](##Architecture-du-système)
-- [Tests](##Tests)
+- [Description](#-Description)
+- [Fonctionnalités](#-Fonctionnalités)
+- [Technologies utiliséess](#-Technologies-utilisées)
+- [Installation](#-Installation)
+- [Utilisation](#-Utilisation)
+- [Architecture du système](#-Architecture-du-système)
+- [Tests](#-Tests)
 
   <a href="#Description">Description</a> •
   <a href="#Fonctionnalités">Fonctionnalités</a> •
