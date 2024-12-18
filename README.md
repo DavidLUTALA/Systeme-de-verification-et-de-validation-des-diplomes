@@ -1,7 +1,7 @@
 # Système de vérification et de validation des diplômes
 
 
-# Table of contents
+# Table de matière
 
 - [Description](#-Description)
 - [Fonctionnalités](#-Fonctionnalités)
@@ -11,13 +11,6 @@
 - [Architecture du système](#-Architecture-du-système)
 - [Tests](#-Tests)
 
-  <a href="#Description">Description</a> •
-  <a href="#Fonctionnalités">Fonctionnalités</a> •
-  <a href="#Technologies-utilisées">Technologies utilisées</a> •
-  <a href="#Installation">Installation</a> •
-  <a href="#Utilisation">Utilisation</a> •
-  <a href="#Architecture-du-système">Architecture du système</a> •
-  <a href="#Tests">Tests</a>
 
 
 ## 🚩 Description
