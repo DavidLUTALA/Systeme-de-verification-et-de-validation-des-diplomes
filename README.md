@@ -3,18 +3,8 @@
 
 # Table of contents
 
-- [Description](#Description)
-- [Fonctionnalités](#Fonctionnalités)
-- [Technologies utiliséess](#Technologies-utilisées)
-- [Installation](#Installation)
-- [Utilisation](#Utilisation)
-- [Architecture du système](#Architecture-du-système)
-- [Tests](#Tests)
 
 
-
-
-<p align="center">
   <a href="#Description">Description</a> •
   <a href="#Fonctionnalités">Fonctionnalités</a> •
   <a href="#Technologies-utilisées">Technologies utilisées</a> •
@@ -22,7 +12,6 @@
   <a href="#Utilisation">Utilisation</a> •
   <a href="#Architecture-du-système">Architecture du système</a> •
   <a href="#Tests">Tests</a>
-</p>
 
 
 ## 🚩 Description
