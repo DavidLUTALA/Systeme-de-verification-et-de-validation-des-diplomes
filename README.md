@@ -1,5 +1,19 @@
 # Système de vérification et de validation des diplômes
 
+
+# Table of contents
+
+- [Description](#Description)
+- [Fonctionnalités](#Fonctionnalités)
+- [Technologies utiliséess](#Technologies-utilisées)
+- [Installation](#Installation)
+- [Utilisation](#Utilisation)
+- [Architecture du système](#Architecture-du-système)
+- [Tests](#Tests)
+
+
+
+
 <p align="center">
   <a href="#Description">Description</a> •
   <a href="#Fonctionnalités">Fonctionnalités</a> •
@@ -117,7 +131,7 @@ streamlit run app.py
 
 Pour arrêter l'application, appuyez sur **Ctrl+C**
 
-## 🐾 Utilisation
+## 💻 Utilisation
 1. **Université** :
 - Téléchargez les détails du diplôme.
 - Générez un PDF signé et stockez-le sur IPFS.
@@ -142,7 +156,7 @@ Pour arrêter l'application, appuyez sur **Ctrl+C**
 | Temps de confirmation moyen | 10 secondes |
 | Coût de transaction moyen | 0,0001415 ETH (0,51 USD) |
 
-## 💬 Améliorations futures
+## ✨ Améliorations futures
 - Optimisation des coûts de transaction.
 - Intégration aux systèmes de gestion pédagogique existants.
 - Prise en charge de types de justificatifs supplémentaires (par exemple, certificats de participation).
