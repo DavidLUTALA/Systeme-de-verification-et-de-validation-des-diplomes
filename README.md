@@ -30,7 +30,7 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 
 ## 🤖 Technologies utilisées
 - **Plateforme Blockchain** : [Ethereum](https://ethereum.org)
-- **Langage de programmation** : [Solidity](https://soliditylang.org/)), [Python](https://www.python.org)
+- **Langage de programmation** : [Solidity](https://soliditylang.org/), [Python](https://www.python.org)
 - **Système de stockage** : [IPFS (via Pinata)](https://pinata.cloud/)
 - **Frontend** : [Streamlit](https://streamlit.io/), [HTML](https://www.w3schools.com/html), [CSS](https://www.w3schools.com/css), [JavaScript](https://www.w3schools.com/js)
 - **Backend** : [Node.js](https://nodejs.org/)
