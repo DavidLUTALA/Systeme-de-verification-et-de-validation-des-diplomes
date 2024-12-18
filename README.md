@@ -154,6 +154,7 @@ Ce projet est sous licence [MIT License](LICENSE) © [David Lutala](https://gith
 We welcome contributions! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
 ## 🌏 Contact
+Pour toute question ou suggestion, veuillez me contacter par mail via [davidlutala0@gmail.com].
 - **Author**: [David Lutala](davidlutala0@gmail.com)
 - **GitHub**: [DavidLUTALA](https://github.com/DavidLUTALA)
 
