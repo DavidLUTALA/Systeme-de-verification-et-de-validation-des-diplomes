@@ -44,7 +44,7 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 ### Prérequis
 - Node.js et npm installés avec une version >= 21.0.0
 - Version Python >= 3.9.10 (La version Python 3.9.10 ou supérieure est recommandée mais d'autres versions peuvent également fonctionner.)
-- Compte Pinata pour la gestion IPFS
+- Compte Pinata pour la gestion IPFS.
 
 ### Étapes
 1. Cloner le dépôt :
