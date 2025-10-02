@@ -163,7 +163,7 @@ Pour toute question ou suggestion, veuillez me contacter par mail via [davidluta
 
 ## 📱 Photos du système
 
-- génération diplôme par l'université
+- génération diplôme par l'université.
 ![Alt text](Images/image1.png)
 
 - Affichage de la liste de tous les diplômes générés (Assurer la transparence)
