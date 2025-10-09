@@ -21,7 +21,7 @@ Ce projet met en œuvre un système basé sur la blockchain pour valider et auth
 
 ## 🎨 Fonctionnalités
 - **Dossiers sécurisés et immuables** : les diplômes sont stockés sur un registre décentralisé.
-- **Signature numérique** : garantit l'authenticité des documents.
+- **Signature numérique** : garantit l'authenticité des documents
 - **Intégration IPFS** : stockage de fichiers décentralisé à l'aide du système de fichiers interplanétaire.
 - **Contrats intelligents** : validation et enregistrement automatisés des données.
 - **Interface conviviale** : accès simplifié pour les universités et les vérificateurs.
